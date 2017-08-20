@@ -59,6 +59,7 @@ If the required packages are not installed in your machine, then please comment 
    - you will be prompted to enter the Maze filename and also the heuristics you want to use in A* search. And you will see the output in the console for the Maze file and specific Heuristics you provided.
    ```
 
+   
    where,
 
    | Parameters          | E.g:        |
