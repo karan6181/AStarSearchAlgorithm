@@ -87,11 +87,11 @@ python rdMaze.py map4.txt euclidean
 
 |------------- STARTING DICE ORIENTATION--------------|
 
-	  2			    NORTH
-	  |	 	 	      |
+      2			            NORTH
+      |	 	 	              |
 4 - 1 / 6 - 3		 LEFT - TOP / BOTTOM - RIGHT
-	  |	 	 	      |
-	  5			    SOUTH
+      |	 	 	              |
+      5			            SOUTH
 |==================== MOVE: 0====================|
 
 |------------- MAZE--------------|
