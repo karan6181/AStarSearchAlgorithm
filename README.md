@@ -61,10 +61,10 @@ If the required packages are not installed in your machine, then please comment 
 
    where,
 
-   | Parameters        | E.g:        |
-   | ----------------- | ----------- |
-   | <Maze's filename> | "map1.txt"  |
-   | <Heuristics name> | "manhattan" |
+   | Parameters          | E.g:        |
+   | ------------------- | ----------- |
+   | <Maze's filename>   | "map1.txt"  |
+   | \<Heuristics name\> | "manhattan" |
 
 
 
@@ -136,10 +136,10 @@ No. of nodes visited / removed from the queue   :  86
 
 Following graph shows the number of nodes generated and visited for Euclidean distance for map4
 
-
+![](https://github.com/karan6181/AStarSearchAlgorithm/blob/master/Output_Map4/Euclidean.png)
 
 ------
 
 ### Other Details:
 
-To read more about this project, please refer to the project report.
+To read more about this project, please refer to the project [report](https://github.com/karan6181/AStarSearchAlgorithm/blob/master/Report/project01_axk8776_ds5930_kkj1811.pdf).
