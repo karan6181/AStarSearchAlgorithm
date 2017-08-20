@@ -49,12 +49,12 @@ If the required packages are not installed in your machine, then please comment 
    - You will see the output in the console for the Maze file you provided for all the Heuristics( 'fancy_manhattan', 'manhattan', 'euclidean', 'diagonal' )
    ```
 
-2. ```python
+2. ```shell
    # python3 rdMaze.py <Maze's filename> <Heuristics name>
    - You will see the output in the console for the Maze file and specific Heuristics you provided.
    ```
 
-3. ```python
+3. ```shell
    # python3 rdMaze.py
    - you will be prompted to enter the Maze filename and also the heuristics you want to use in A* search. And you will see the output in the console for the Maze file and specific Heuristics you provided.
    ```
